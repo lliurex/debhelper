@@ -2,7 +2,7 @@ debhelper (13.2.1ubuntu1+lliurex1) focal; urgency=medium
 
   * Backport to focal
 
- -- M.Angel Juan <m.angel.juan@gmail.com>  Tue, 15 Sep 2020 13:30:26 +0200
+ -- M.Angel Juan <m.angel.juan@gmail.com>  Tue, 15 Sep 2020 13:31:56 +0200
 
 debhelper (13.2.1ubuntu1) groovy; urgency=medium
 
